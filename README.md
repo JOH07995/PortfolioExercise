@@ -10,13 +10,24 @@ Key considerations in this effort are:
 * Demonstrated use of Git Committing and Commenting
 
 
-## Notable elements of Code Base
+## Commit History (as of 20200411)
 ```
-X
+Updated content for each page with appropriate placeholders
 
-Y
+Added placeholder image for About Me card, further Navigation refinement
 
-Z
+Updated Navbar and added a CSS stylesheet
+
+Added Footer to each page, updated content for About Me page
+
+added page navigation and updated README with more details
+
+Doctype and Titles added
+
+Initial Commit -- Initialized .html files
+
+Initial commit
+
 ```
 
 
