@@ -25,6 +25,7 @@ Z
 * [Bootstrap]() - Bootstrap
 * [w3schools.com](https://www.w3schools.com/default.asp) - Primary reference for HTML and CSS
 * [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Reference) - Additional reference for HTML and CSS
+* [Hipster Ipsum](https://hipsum.co/) - Lorem Ipsum needs
 * [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - PurpleBooth for the README Template utilized here
 
 
